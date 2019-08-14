@@ -1,0 +1,7 @@
+D:\DOSYALAR\YAZILIMLARIM\C Sharp\Asal SAyı\Asal SAyı\bin\Debug\Asal SAyı.exe.config
+D:\DOSYALAR\YAZILIMLARIM\C Sharp\Asal SAyı\Asal SAyı\bin\Debug\Asal SAyı.exe
+D:\DOSYALAR\YAZILIMLARIM\C Sharp\Asal SAyı\Asal SAyı\bin\Debug\Asal SAyı.pdb
+D:\DOSYALAR\YAZILIMLARIM\C Sharp\Asal SAyı\Asal SAyı\obj\Debug\Asal SAyı.csprojAssemblyReference.cache
+D:\DOSYALAR\YAZILIMLARIM\C Sharp\Asal SAyı\Asal SAyı\obj\Debug\Asal SAyı.csproj.CoreCompileInputs.cache
+D:\DOSYALAR\YAZILIMLARIM\C Sharp\Asal SAyı\Asal SAyı\obj\Debug\Asal SAyı.exe
+D:\DOSYALAR\YAZILIMLARIM\C Sharp\Asal SAyı\Asal SAyı\obj\Debug\Asal SAyı.pdb
